@@ -1,5 +1,13 @@
 # agent based modelling - ant colony
 
+Made by James Taylor, Ammar Shehata, Matt Prestwich.
+
+Agent based modelling representation of an ant colony in MatLab.
+
+Uploaded from my university github.
+
+Completed April 2020.
+
 ## recommendations
 the ecolab function accept parameters as follows:
 ecolab(
